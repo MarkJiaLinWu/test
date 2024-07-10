@@ -1,2 +1,2 @@
 This is test part 3 reset method
-and retest
+and retest 4
